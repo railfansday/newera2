@@ -18,7 +18,7 @@ RSS_FILE = str(BASE_DIR / "rss_list.txt")
 OUTPUT_DIR = str(BASE_DIR)
 
 # ⚠️ GANTI DENGAN URL GITHUB PAGES ANDA (Sesuaikan dengan repo: newera)
-BASE_URL = "https://railfansday.github.io/newera" 
+BASE_URL = "https://railfansday.github.io/newera2" 
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
